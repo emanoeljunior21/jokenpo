@@ -17,13 +17,28 @@
             <button id="scissors" onclick="playHuman('scissors')">&#x270C</button>
         </div>
 
+        <div class="choices">
+            <div class="choice-box">
+                <p>Sua escolha:</p>
+                <div id="human-choice" class="choice-icon">-</div>
+            </div>
+            <div class="choice-box">
+                <p>Escolha do Joken:</p>
+                <div id="machine-choice" class="choice-icon">-</div>
+            </div>
+        </div>
+
         <p class="result"></p>
 
-        <p class="your-score">Sua Pontuação: <span id="human-score">0</span></p>
-        <p class="machine-score">Pontuação do Joken: <span id="machine-score">0</span></p>
+        <div class="scores">
+            <p class="your-score">Sua Pontuação: <span id="human-score">0</span></p>
+            <p class="machine-score">Pontuação do Joken: <span id="machine-score">0</span></p>
+        </div>
 
+        <button id="reset-btn" onclick="resetGame()">Reiniciar Jogo</button>
     </div>
+
+    <script src="./scripts.js"></script>
 </body>
-<script src="./scripts.js"></script>
 
 </html>
