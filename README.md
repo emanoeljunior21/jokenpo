@@ -21,7 +21,7 @@ O projeto possui **pontuação, animações de resultado e responsividade para d
 ✅ Mostra a escolha do jogador e da máquina  
 ✅ Exibe o resultado do jogo (Vitória, Derrota ou Empate)  
 ✅ Atualiza a pontuação automaticamente 
-✅ Botão para reiniciar o jogo   
+ 
 
 ---
 
