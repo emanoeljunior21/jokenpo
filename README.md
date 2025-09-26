@@ -1,4 +1,4 @@
-✊🖐️✌️ JokenPô
+# ✊🖐️✌️ JokenPô
 
 Um **jogo de JokenPô (Pedra, Papel e Tesoura)** desenvolvido com **HTML, CSS e JavaScript**, onde o jogador compete contra a máquina em tempo real.
 O projeto possui **pontuação, animações de resultado e responsividade para dispositivos móveis**.
