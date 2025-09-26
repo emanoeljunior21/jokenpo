@@ -23,9 +23,9 @@ O projeto possui **pontuação, animações de resultado e responsividade para d
 
 📂 Estrutura do Projeto
 📁 jokenpo
-├── index.html       # Estrutura principal do jogo
-├── style.css        # Estilos, animações e responsividade
-├── scripts.js       # Lógica do jogo, pontuação e interatividade
-├── assets/          # Imagens ou GIFs utilizados no projeto
+├── index.html       # Estrutura principal
+├── style.css        # Estilos e animações
+├── scripts.js       # Lógica do carrossel
+├── assets/          # Imagens utilizadas no carrossel 
 │   └── animation.gif
 └── README.md        # Documentação
